@@ -1,5 +1,5 @@
 ---
-title: Hi, I’m Paul–
+title: xin chào đây là Tiếp House
 summary: an independent designer, writer and speaker based in Brighton, England. I help responsible organisations make purposeful digital products.
 permalink: /index.html
 type: homepage

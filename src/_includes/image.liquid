@@ -4,7 +4,7 @@
 {%- assign src = image -%}
 {%- assign srcset = false -%}
 {%- unless image contains 'svg' -%}
-  {%- assign base = 'https://res.cloudinary.com/paulrobertlloyd/image/fetch' -%}
+  {%- assign base = 'https://res.cloudinary.com/tiepz/image/fetch' -%}
   {%- assign public_id = image | prepend: app.url -%}
   {%- capture transformations %}{% if image_ratio %}ar_{{ image_ratio }}%2C{% endif %}c_fill%2Cf_auto%2Cq_auto{% endcapture -%}
   {%- capture src %}{{ base }}/{{ transformations }}%2Cw_{{ setting.width }}/{{ public_id }}{% endcapture -%}
