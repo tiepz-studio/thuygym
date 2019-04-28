@@ -1,11 +1,11 @@
-# paulrobertlloyd.com
+# tiepz.com
 
 *My personal website. There are many like it, but this is mine.*
 
 ## Installation
 
-1. `git clone git@github.com:paulrobertlloyd/paulrobertlloyd-v4.git`
-2. `cd paulrobertlloyd-v4`
+1. `git clone git@github.com:tiepz/tiepz-v4.git`
+2. `cd tiepz-v4`
 4. `npm install`
 5. `npm run build`
 
@@ -32,11 +32,11 @@ To run with HTTPS locally on macOS first [follow the setup steps described here]
    -x509 \
    -keyout etc/test.key \
    -out etc/test.crt \
-   -subj /CN=v4.paulrobertlloyd.test \
+   -subj /CN=v4.tiepz.test \
    -reqexts SAN \
    -extensions SAN \
    -config <(cat /System/Library/OpenSSL/openssl.cnf \
-   <(printf '[SAN]\nsubjectAltName=DNS:v4.paulrobertlloyd.test'))
+   <(printf '[SAN]\nsubjectAltName=DNS:v4.tiepz.test'))
    ```
 
 ## Deployment
@@ -46,7 +46,7 @@ This site is deployed automatically by Netlify whenever files are pushed to the 
 ## Repo structure
 
 ```bash
-paulrobertlloyd.com
+tiepz.com
 ├── etc
 │   └── test.conf                # Local nginx server configuration
 │
@@ -84,4 +84,4 @@ paulrobertlloyd.com
 └── README.md                    # This file
 ```
 
-© [Paul Robert Lloyd](https://paulrobertlloyd.com)
+© [Phạm Xuân Tiếp](https://tiepz.com)
