@@ -23,10 +23,10 @@ I’m considering today’s launch very much a pre-release affair. I’m still n
 
 Please let me know your thoughts on the new direction and design (and any bugs you run into) in the comments below.
 
-[1]: https://www.flickr.com/photos/paulrobertlloyd/
-[2]: https://v2.paulrobertlloyd.com/2008/09/california_zephyr
-[3]: https://v2.paulrobertlloyd.com/tags/travel/
-[4]: https://v2.paulrobertlloyd.com/about/colophon/
+[1]: https://www.flickr.com/photos/tiepz/
+[2]: https://v2.tiepz.com/2008/09/california_zephyr
+[3]: https://v2.tiepz.com/tags/travel/
+[4]: https://v2.tiepz.com/about/colophon/
 
 *[BBC]: British Broadcasting Corporation
 *[DC]: District of Columbia

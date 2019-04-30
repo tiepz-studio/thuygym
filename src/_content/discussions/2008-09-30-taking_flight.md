@@ -29,7 +29,7 @@ remarks:
 - author: Paul Robert Lloyd
   gravatar: 15091a37bacfa4bdd011282627eaca2b
   date: 2008-10-01T03:52:13+01:00
-  url: https://paulrobertlloyd.com/
+  url: https://tiepz.com/
   content: |
     Fabricio – I’m in town until the morning of the 10th, so maybe we could catch up on the 9th?
 

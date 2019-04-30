@@ -16,7 +16,7 @@ slides:
     Prior to joining Clearleft I was lead designer at Ning, a start-up based in Palo Alto, California. I worked there during 2006-7, when a lot of the companies we know today were just getting started. Working in the Valley was an amazing – and at times eye-opening – experience.
 - image: /images/2013/07/aquent_gumnasium_uk_launch/3.jpg
   notes: |
-    However, [my journey](https://lloydyweb.paulrobertlloyd.com/blog/2006/01/my_journey_so_far) began almost ten years ago at Orange Vision, a tiny web design agency based in Lichfield, Staffordshire.
+    However, [my journey](https://lloydyweb.tiepz.com/blog/2006/01/my_journey_so_far) began almost ten years ago at Orange Vision, a tiny web design agency based in Lichfield, Staffordshire.
 - image: /images/2013/07/aquent_gumnasium_uk_launch/4.jpg
   notes: |
     I started in the summer of 2004, just as support for web standards was gaining traction. One of the key ideas behind this movement was the separation of presentation from content: developing highly semantic HTML pages styled separately with CSS. <cite>[Designing with Web Standards](https://en.wikipedia.org/wiki/Designing_with_Web_Standards)</cite> by Jeffrey Zeldman was my bible.
@@ -31,7 +31,7 @@ slides:
   notes: |
     When I came in on Monday morning, I was devastated! With no version control, everything I’d done had gone. Of course, this situation could have been avoided had I communicated my intentions better, and explained how we would support older browsers.
 
-    Over time, I was able to persuade the company to adopt web standards. This wasn’t hard; maintainability, speed, accessibility and search engine optimisation were frequently brought up during debates. When [@media 2005](https://lloydyweb.paulrobertlloyd.com/blog/2005/06/reflecting_on_media_2005) was announced, me and two colleagues were even allowed two days off to attend. This story has a happy ending.
+    Over time, I was able to persuade the company to adopt web standards. This wasn’t hard; maintainability, speed, accessibility and search engine optimisation were frequently brought up during debates. When [@media 2005](https://lloydyweb.tiepz.com/blog/2005/06/reflecting_on_media_2005) was announced, me and two colleagues were even allowed two days off to attend. This story has a happy ending.
 - image: /images/2013/07/aquent_gumnasium_uk_launch/7.png
   notes: |
     I find it telling that I started my career having to make such a strong argument for keeping up. Before Orange Vision, I built websites for a hobby, and had already seen the web change significantly in a short amount of time. It seemed obvious that to gain (and maintain) employment, I would need to stay relevant and embrace change. Yet upon meeting a group of people focused on meeting client expectations – concerned about getting work out of the door – I saw how easy it is to fall behind.

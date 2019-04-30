@@ -61,10 +61,10 @@ As [one of the nominees][1] for Designer of the Year in the 2014 net Awards, Cre
 [5]: https://theguardian.com
 [6]: http://v4.clearleft.com/made/unicef
 [7]: https://24ways.org
-[8]: https://paulrobertlloyd.com/2013/04/bradshaws_guide
+[8]: https://tiepz.com/2013/04/bradshaws_guide
 [9]: https://bradshaws.guide
 [10]: https://alistapart.com/article/the-web-aesthetic
-[11]: https://speakerdeck.com/paulrobertlloyd/this-is-for-everyone-speak-the-web
+[11]: https://speakerdeck.com/tiepz/this-is-for-everyone-speak-the-web
 [12]: http://responsiveconf.com/2013/
 [13]: http://www.artofthetitle.com/designer/saul-bass/
 [14]: http://bevanstephens.com

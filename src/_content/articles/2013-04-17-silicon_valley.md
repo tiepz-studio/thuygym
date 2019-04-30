@@ -51,7 +51,7 @@ Cushing’s article led me to a post by Catherine Bracy, Director of Internation
 
 I joked about it with friends when arrived last week, but I think I was on to something; Silicon Valley needs a healthy dose of cynicism.
 
-[1]: http://readability.com/paulrobertlloyd/favorites
+[1]: http://readability.com/tiepz/favorites
 [2]: http://www.guardian.co.uk/technology/2013/mar/09/evgeny-morozov-technology-solutionism-interview
 [3]: https://www.goodreads.com/book/show/10003400-the-net-delusion
 [4]: https://www.goodreads.com/book/show/13587160-to-save-everything-click-here

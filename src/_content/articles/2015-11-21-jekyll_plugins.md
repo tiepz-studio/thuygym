@@ -72,11 +72,11 @@ Yet if there’s one thing I’ve learnt while making this tentitive journey int
 [3]: https://jekyllrb.com/docs/plugins/
 [4]: https://www.ruby-lang.org/en/
 [5]: https://www.bbc.co.uk/commissioning/tv/production/articles/credits-branding-trademarks
-[6]: https://github.com/paulrobertlloyd/jekyll-roman
-[7]: https://github.com/paulrobertlloyd/jekyll-figure
+[6]: https://github.com/tiepz/jekyll-roman
+[7]: https://github.com/tiepz/jekyll-figure
 [8]: https://github.com/aarongustafson/jekyll-crosspost-to-medium/pull/3
 [9]: https://github.com/aarongustafson/jekyll-crosspost-to-medium
-[10]: https://github.com/paulrobertlloyd/paulrobertlloyd-v3/blob/2c9a499/source/_plugins/picture.rb
+[10]: https://github.com/tiepz/tiepz-v3/blob/2c9a499/source/_plugins/picture.rb
 
 *[BBC]: British Broadcasting Corporation
 *[HTML]: Hypertext Markup Language

@@ -84,8 +84,8 @@ In order to achieve these aims, I’ll need to diversify my network. One of the 
 
 As I mentioned earlier, I remain in a very fortunate position: I get to do what I enjoy, and I get paid to do it. Now, with a better understanding of my financial situation, I intend to share in the proceeds of this good fortune. Donating a portion of my revenue to charities, I plan to divide this up between a local charity focused on homelessness, and another fighting a global concern, climate change. I hope to write more about this in the coming months.
 
-[1]: https://paulrobertlloyd.com/2015/01/changing_gears
-[2]: https://paulrobertlloyd.com/2015/10/taking_the_plunge
-[3]: https://paulrobertlloyd.com/2016/03/logical_flexbox
+[1]: https://tiepz.com/2015/01/changing_gears
+[2]: https://tiepz.com/2015/10/taking_the_plunge
+[3]: https://tiepz.com/2016/03/logical_flexbox
 
 *[UI]: user interface

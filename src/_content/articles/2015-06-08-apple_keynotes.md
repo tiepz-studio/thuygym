@@ -25,7 +25,7 @@ Or perhaps — and this might be the most likely reason — participating in a m
 
 Apple are just another technology company, trying to sell me stuff I don’t want (and only sometimes need). And I no longer see the fun in that.
 
-[1]: https://twitter.com/paulrobertlloyd/status/607965028705267713
+[1]: https://twitter.com/tiepz/status/607965028705267713
 [2]: http://www.apple.com/live/2015-june-event/
 [3]: https://www.youtube.com/watch?v=Nx7v815bYUw
 [4]: https://en.wikipedia.org/wiki/Benefit_corporation

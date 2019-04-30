@@ -49,7 +49,7 @@ remarks:
 - author: Paul Robert Lloyd
   gravatar: 15091a37bacfa4bdd011282627eaca2b
   date: 2009-07-17T12:33:46+01:00
-  url: https://paulrobertlloyd.com/
+  url: https://tiepz.com/
   content: |
     Bernard, you’ve found me out!
 

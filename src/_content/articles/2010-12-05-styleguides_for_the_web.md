@@ -141,7 +141,7 @@ Whilst much of this talk has focused on the styleguide as a deliverable, I hope 
 [2]: https://www.bbc.co.uk/blogs/bbcinternet/2010/02/a_new_global_visual_language_f.html
 [3]: /2010/02/bbc_online_gvl
 [4]: http://bbc.co.uk/gel/
-[5]: http://gelled.paulrobertlloyd.com/
+[5]: http://gelled.tiepz.com/
 [6]: http://www.alistapart.com/articles/dao/
 [7]: http://www.alistapart.com/articles/responsive-web-design/
 [8]: https://adactio.com/journal/1700/

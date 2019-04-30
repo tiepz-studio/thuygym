@@ -78,7 +78,7 @@ Clearly, I have a lot of questions, so I’ll need to find answers before contin
 [4]: /links/2016/04/easter_island
 [5]: https://www.freeagent.com/fieldguide/
 [6]: http://www.generateconf.com
-[7]: https://twitter.com/paulrobertlloyd/status/768395089395781632
+[7]: https://twitter.com/tiepz/status/768395089395781632
 [8]: https://www.theguardian.com/environment/2016/jul/30/england-plastic-bag-usage-drops-85-per-cent-since-5p-charged-introduced
 [9]: /2009/03/nothing_green_about_sxsw
 [10]: /2010/08/dconstruct_conference_badge

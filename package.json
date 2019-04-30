@@ -1,5 +1,5 @@
 {
-  "name": "paulrobertlloyd.com",
+  "name": "tiepz.com",
   "version": "4.0.0",
   "description": "The personal website of Paul Robert Lloyd",
   "keywords": [
@@ -8,9 +8,9 @@
   ],
   "author": "Paul Robert Lloyd",
   "license": "SEE LICENSE IN LICENSE",
-  "homepage": "https://github.com/paulrobertlloyd/paulrobertlloyd-v4#readme",
-  "repository": "github:paulrobertlloyd/paulrobertlloyd-v4",
-  "bugs": "https://github.com/paulrobertlloyd/paulrobertlloyd-v4/issues",
+  "homepage": "https://github.com/tiepz/tiepz-v4#readme",
+  "repository": "github:tiepz/tiepz-v4",
+  "bugs": "https://github.com/tiepz/tiepz-v4/issues",
   "scripts": {
     "prebuild": "rm -rf www && mkdir -p www/assets",
     "build:files": "eleventy --config lib/eleventy.config.js --quiet",

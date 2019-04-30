@@ -66,7 +66,7 @@ So, there we have it. Lots to look forward to, and still much to plan, yet I sus
 [21]: https://twitter.com/dpc47
 [22]: https://twitter.com/lizes
 [23]: https://en.wikipedia.org/wiki/Canadian_(train)
-[24]: http://lanyrd.com/people/paulrobertlloyd/
+[24]: http://lanyrd.com/people/tiepz/
 
 *[APA]: Association of Publishing Agencies
 *[DC]: District of Columbia

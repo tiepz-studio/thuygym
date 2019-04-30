@@ -260,7 +260,7 @@ I hope you have enjoyed this three-part series, borne from the talk I gave at Sm
 [11]: /2011/07/remembering_brasilia
 [12]: https://facebook.github.io/react/
 [13]: /contact
-[14]: https://twitter.com/paulrobertlloyd
+[14]: https://twitter.com/tiepz
 
 *[ASCII]: American Standard Code for Information Interchange
 *[HTML]: HyperText Markup Language

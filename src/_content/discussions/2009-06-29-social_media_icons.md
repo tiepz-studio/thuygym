@@ -35,7 +35,7 @@ remarks:
 - author: Paul Robert Lloyd
   gravatar: 15091a37bacfa4bdd011282627eaca2b
   date: 2009-07-02T01:37:00+01:00
-  url: https://paulrobertlloyd.com/
+  url: https://tiepz.com/
   content: |
     Thanks for the kind words everybody!
 
@@ -176,7 +176,7 @@ remarks:
 - author: Paul Robert Lloyd
   gravatar: 15091a37bacfa4bdd011282627eaca2b
   date: 2009-07-20T21:23:15+01:00
-  url: https://paulrobertlloyd.com/
+  url: https://tiepz.com/
   content: |
     Hi Mike,
 
@@ -214,7 +214,7 @@ remarks:
 - author: Paul Robert Lloyd
   gravatar: 15091a37bacfa4bdd011282627eaca2b
   date: 2009-07-20T22:50:28+01:00
-  url: https://paulrobertlloyd.com/
+  url: https://tiepz.com/
   content: |
     Thanks for getting back to me on this Mike, it seem as though technology has failed us once again. Apology excepted.
 
@@ -919,7 +919,7 @@ remarks:
 - author: Paul Robert Lloyd
   gravatar: 15091a37bacfa4bdd011282627eaca2b
   date: 2010-05-27T23:19:56+01:00
-  url: https://paulrobertlloyd.com/
+  url: https://tiepz.com/
   content: |
     Hello all,
 

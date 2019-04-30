@@ -21,7 +21,7 @@ The first thing to note, is that I’m again travelling by train. I really enjoy
 
 So which countries am I visiting? Europe is such a large continent, with many different cultures and landscapes, I was a bit overwhelmed at first as to which countries to visit. With a little help from the great team of advisors at [railselect.com][2], I settled on the following itinerary, leaving and returning to London’s new St. Pancras International terminal via the Eurostar:
 
-{% include 'embed' with 'https://a.tiles.mapbox.com/v4/paulrobertlloyd.map-vw9a5oh6/attribution,zoompan.html?access_token=pk.eyJ1IjoicGF1bHJvYmVydGxsb3lkIiwiYSI6Ik54cHBhS0UifQ.bNN4HG8gg9JMj_Dr_hkdLg#6/49.5/4'
+{% include 'embed' with 'https://a.tiles.mapbox.com/v4/tiepz.map-vw9a5oh6/attribution,zoompan.html?access_token=pk.eyJ1IjoicGF1bHJvYmVydGxsb3lkIiwiYSI6Ik54cHBhS0UifQ.bNN4HG8gg9JMj_Dr_hkdLg#6/49.5/4'
   poster: 'https://api.mapbox.com/styles/v1/mapbox/streets-v10/static/4,49.5,6,0,0/'
   caption: 'European rail destinations plotted on a map'
   alignment: 'bleed'
@@ -41,8 +41,8 @@ Each of these destinations promises to be exciting, with opportunities to learn 
 
 I hope to post entries providing my thoughts on each of these destinations as I pass through them, but past experience dictates that I’m unlikely to write these up until months after my return.
 
-If you want to get a more immediate taste of my experience travelling across Europe, my Twitter stream is the best place to find it. You can follow me [@paulrobertlloyd][3], where I’ll no doubt be asking for advice on things to see and do, and undoubtedly recounting tales of missed trains, and embarrassing situations resulting from my lack of language and social skills!
+If you want to get a more immediate taste of my experience travelling across Europe, my Twitter stream is the best place to find it. You can follow me [@tiepz][3], where I’ll no doubt be asking for advice on things to see and do, and undoubtedly recounting tales of missed trains, and embarrassing situations resulting from my lack of language and social skills!
 
 [1]: /2008/09/california_zephyr
 [2]: http://www.railselect.com/
-[3]: https://twitter.com/paulrobertlloyd
+[3]: https://twitter.com/tiepz

@@ -64,7 +64,7 @@ This is what I have lined up so far, and I remain on the look out for more event
 [10]: http://cssday.nl/2016
 [11]: https://underconsideration.com/brandnieuweconference/
 [12]: https://underconsideration.com/brandnew/
-[13]: https://twitter.com/paulrobertlloyd
+[13]: https://twitter.com/tiepz
 
 *[CSS]: Cascading Style Sheets
 *[HTML]: HyperText Markup Language

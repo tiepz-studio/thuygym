@@ -47,17 +47,17 @@ This news comes just over a year since [the death of my friend James][14]. Indee
 
 Fuck it, let’s go to Australia!
 
-[1]: https://www.flickr.com/photos/paulrobertlloyd/3805288471/in/album-72157621993226654/
-[2]: https://www.flickr.com/photos/paulrobertlloyd/3805253119/in/album-72157621993226654/
-[3]: https://www.flickr.com/photos/paulrobertlloyd/sets/72157623659637746
-[4]: https://www.flickr.com/photos/paulrobertlloyd/sets/72157623540740943
-[5]: https://www.flickr.com/photos/paulrobertlloyd/sets/72157623535409947
-[6]: https://www.flickr.com/photos/paulrobertlloyd/albums/72157622294084908
+[1]: https://www.flickr.com/photos/tiepz/3805288471/in/album-72157621993226654/
+[2]: https://www.flickr.com/photos/tiepz/3805253119/in/album-72157621993226654/
+[3]: https://www.flickr.com/photos/tiepz/sets/72157623659637746
+[4]: https://www.flickr.com/photos/tiepz/sets/72157623540740943
+[5]: https://www.flickr.com/photos/tiepz/sets/72157623535409947
+[6]: https://www.flickr.com/photos/tiepz/albums/72157622294084908
 [7]: https://www.flickr.com/photos/roobottom/sets/394848
 [8]: https://www.flickr.com/photos/roobottom/sets/304504
-[9]: https://www.flickr.com/photos/paulrobertlloyd/albums/72157622265918195
+[9]: https://www.flickr.com/photos/tiepz/albums/72157622265918195
 [10]: https://roobottom.com/articles/2/
-[11]: https://www.flickr.com/photos/paulrobertlloyd/albums/72157622707836534
-[12]: https://lloydyweb.paulrobertlloyd.com/blog/2004/08/special_opps
+[11]: https://www.flickr.com/photos/tiepz/albums/72157622707836534
+[12]: https://lloydyweb.tiepz.com/blog/2004/08/special_opps
 [13]: /2010/10/enough_a_counter_argument
 [14]: /2017/01/heres_to_the_doctor

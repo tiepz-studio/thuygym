@@ -22,8 +22,8 @@ Today, as we come to terms with [the wreckage wrought by this hastiness][5], I f
 
 [^1]: While I take a degree of pride in these aspects, it’s probably worth acknowledging these as biases before I approach any new work.
 
-[1]: https://lloydyweb.paulrobertlloyd.com/blog/2005/08/a_tall_story
+[1]: https://lloydyweb.tiepz.com/blog/2005/08/a_tall_story
 [2]: https://www.behindthename.com/name/paul
 [3]: https://css-tricks.com/improving-accessibility-24-ways/
-[4]: https://paulrobertlloyd.com/2015/01/changing_gears
+[4]: https://tiepz.com/2015/01/changing_gears
 [5]: https://medium.com/@monteiro/ac7289549017

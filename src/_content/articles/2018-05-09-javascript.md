@@ -45,7 +45,7 @@ So, the future is bright. I’m excited by the possibility space that has opened
 [4]: http://bradfrost.com/blog/post/just/
 [5]: https://regex101.com
 [6]: https://twitter.com/scruffymongrel
-[7]: https://gist.github.com/paulrobertlloyd/d50e7728db960223d3e2b81c665a179d
+[7]: https://gist.github.com/tiepz/d50e7728db960223d3e2b81c665a179d
 [8]: https://addyosmani.com/writing-modular-js/
 [9]: https://github.com/gablaxian/gablaxian.com
 [10]: https://rollupjs.org

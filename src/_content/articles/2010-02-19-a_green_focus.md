@@ -105,12 +105,12 @@ Hopefully this is the first in a series of events and initiatives in support of 
 [6]: https://1010uk.org
 [7]: https://aneventapart.com
 [8]: https://clearleft.com/
-[9]: https://speakerdeck.com/paulrobertlloyd/announcing-a-dot-green-focus
-[10]: http://agreenfocus.paulrobertlloyd.com/
-[11]: http://agreenfocus.paulrobertlloyd.com/post/371323289/
+[9]: https://speakerdeck.com/tiepz/announcing-a-dot-green-focus
+[10]: http://agreenfocus.tiepz.com/
+[11]: http://agreenfocus.tiepz.com/post/371323289/
 [12]: http://multipack.co.uk
 [13]: http://archive.upcoming.org/event/5259221
-[14]: http://agreenfocus.paulrobertlloyd.com/rss
+[14]: http://agreenfocus.tiepz.com/rss
 
 *[RSS]: Really Simple Syndication
 *[SXSW]: South by SouthWest

@@ -75,7 +75,7 @@ There is so much at stake. And there’s still so much more I want to say. But f
 
 [1]: http://blogs.spectator.co.uk/2016/06/a-day-of-infamy/
 [2]: https://en.wikipedia.org/wiki/The_Creation_of_Adam
-[3]: https://twitter.com/paulrobertlloyd/status/440150465419153408
+[3]: https://twitter.com/tiepz/status/440150465419153408
 [4]: /2015/12/peaceful_reflection
 [5]: http://www.bbc.com/news/36462432
 [6]: https://www.newstatesman.com/2016/06/nigel-farage-s-anti-eu-poster-depicting-migrants-resembles-nazi-propaganda

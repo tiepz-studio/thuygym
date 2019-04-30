@@ -61,6 +61,6 @@ I reached the same conclusion several years ago. I don’t think it’s a coinci
 [5]: https://en.wikipedia.org/wiki/App.net
 [6]: https://blog.joinmastodon.org/2018/07/cage-the-mastodon/
 [7]: https://mobile.twitter.com/SarahJamieLewis/status/1030569720527765504
-[8]: https://mastodon.social/@paulrobertlloyd
+[8]: https://mastodon.social/@tiepz
 [9]: https://micro.blog
 [10]: https://www.manton.org/2018/07/12/following-users-ui.html

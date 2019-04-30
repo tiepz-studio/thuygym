@@ -38,16 +38,16 @@ Beyond [a successful hack day][8] in 2010, this small initiative to reduce the w
 
 [1]: /2009/06/social_media_icons
 [2]: /2012/02/gowalla
-[3]: https://github.com/paulrobertlloyd/socialmediaicons/
+[3]: https://github.com/tiepz/socialmediaicons/
 [4]: http://www.netmagazine.com/
 [5]: http://www.jordanm.co.uk/
 [6]: https://www.bbc.co.uk/gel/
-[7]: http://gelled.paulrobertlloyd.com/
-[8]: http://agreenfocus.paulrobertlloyd.com/post/481315894/
+[7]: http://gelled.tiepz.com/
+[8]: http://agreenfocus.tiepz.com/post/481315894/
 [9]: /2010/10/sxsw_greener_is_better
 [10]: http://cole007.net/
-[11]: http://agreenfocus.paulrobertlloyd.com/post/374282933/
-[12]: http://agreenfocus.paulrobertlloyd.com/
+[11]: http://agreenfocus.tiepz.com/post/374282933/
+[12]: http://agreenfocus.tiepz.com/
 
 *[BBC]: British Broadcasting Corporation
 *[GEL]: Global Experience Language

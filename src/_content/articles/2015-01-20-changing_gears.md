@@ -55,7 +55,7 @@ Who knows what the coming year will hold, but it’s sure going to be interestin
 [3]: https://the-pastry-box-project.net/paul-lloyd/2015-january-12
 [4]: https://the-pastry-box-project.net/baker/paul-lloyd
 [5]: https://bradshaws.guide
-[6]: https://github.com/paulrobertlloyd/barebones
+[6]: https://github.com/tiepz/barebones
 [7]: /contact
 
 *[TL;DR]: Too long; didn’t read

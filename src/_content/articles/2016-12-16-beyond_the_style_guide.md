@@ -167,7 +167,7 @@ Alongside tools like preprocessors, newer CSS layout modules like flexbox and gr
 
 [1]: https://www.bbc.co.uk/food/recipes/apricotandbrandychri_77766
 [2]: http://styleguides.io/
-[3]: https://paulrobertlloyd.com/talks/multipack_presents_november_2010
+[3]: https://tiepz.com/talks/multipack_presents_november_2010
 [4]: http://daverupert.com/2013/04/responsive-deliverables/
 [5]: http://www.novolume.co.uk/blog/all-websites-look-the-same/
 [6]: https://louderthanten.com/articles/story/design-machines

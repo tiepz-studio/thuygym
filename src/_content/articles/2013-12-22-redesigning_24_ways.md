@@ -44,7 +44,7 @@ In [The Web Aesthetic][6], I urged designers to move beyond traditional print-in
 ## A torturous design process
 
 {% include 'quote' with 'How I design: tenacity, panic, happy accidents and fast-approaching deadlines.'
-  caption: '[@paulrobertlloyd, 3 September 2013](https://twitter.com/paulrobertlloyd/status/374836201972584448)'
+  caption: '[@tiepz, 3 September 2013](https://twitter.com/tiepz/status/374836201972584448)'
 %}
 
 Given the brief in June, every time I sat down to work on the project, I couldn’t get started. A breakthrough came when I thought back to something [Dan Mall][7] had said about creating element collages: “I start by putting elements on the page for which I have an idea in my mind for”. Having an idea for the display of comments, and with a little alcoholic lubrication, I took to [Sketch][8] and started there.
@@ -58,7 +58,7 @@ Diamonds quickly became a unifying motif throughout this exploratory stage. Not 
 For the typography, I settled on a pairing of [Lato][9] and [Merriweather][10]. For similar reasons discussed in [an earlier post][11], I opted to use freely available fonts, with budget and ease of implementation at the forefront of my mind. This choice helped me typeset articles to a reasonable standard, yet using typefaces from different designers and with different metrics meant I was unable to mix them together inline. I looked at pairing Merriweather with its sans serif counterpart, yet its tracking was too loose for body copy.
 
 {% include 'quote' with 'Know your fonts… using a typeface whose name means ‘summer’, for a website based around Christmas. Awkward.'
-  caption: '[@paulrobertlloyd, 14 November 2013](https://twitter.com/paulrobertlloyd/status/401169294488535040)'
+  caption: '[@tiepz, 14 November 2013](https://twitter.com/tiepz/status/401169294488535040)'
 %}
 
 All the while, [Jessica Hische’s advice][12] was in the back of my mind: could I have found a better pairing with more time? If confirmation were needed, nearing completion of the design I discovered that Lato is Polish for Summer! Hopefully this is something we can revisit next year.
@@ -74,7 +74,7 @@ By the time dConstruct arrived in September, I had enough elements to present an
 With the deadline fast approaching, I abandoned Sketch and headed for the browser. Having already marked up the site (using [Barebones][14] to provide generic styling) I introduced elements of the new design and observed how it cascaded down and throughout pages. Soon enough, the design was informing the markup, which in turn was informing the design. A visual language was developing in front of me.
 
 {% include 'quote' with 'Sometimes you have to work with a design system to truly understand it.'
-  caption: '[@paulrobertlloyd, 29 October 2013](https://twitter.com/paulrobertlloyd/status/395365510046830592)'
+  caption: '[@tiepz, 29 October 2013](https://twitter.com/tiepz/status/395365510046830592)'
 %}
 
 ## Content first, navigation last
@@ -120,7 +120,7 @@ I was keen to introduce more modularity into my code, do more with a CSS preproc
 Although I didn’t employ strict adherence to the [BEM][20] methodology, I found the underlying concept incredibly useful in helping me name patterns.
 
 {% include 'quote' with 'It’s finally happened… I’m seriously considering using a `.list--item` class name. Sky, meet flying pigs.'
-  caption: '[@paulrobertlloyd, 29 October 2013](https://twitter.com/paulrobertlloyd/status/395351309169459200)'
+  caption: '[@tiepz, 29 October 2013](https://twitter.com/tiepz/status/395351309169459200)'
 %}
 
 As *24 ways* is entirely content-based, HTML5’s semantic elements were used extensively, all while making sure they generated a sensible document outline (something that’s often forgotten). Class names took inspiration from these elements, as terms like `article`, `summary`, `header`, `footer` and `main` mapped closely to the smaller patterns required.
@@ -178,7 +178,7 @@ However, I’m a big believer in iteration, and not treating a website as ever b
 [11]: /2013/05/web_typography
 [12]: http://jessicahische.is/talkingtype
 [13]: https://www.nytimes.com/skimmer
-[14]: https://github.com/paulrobertlloyd/barebones/
+[14]: https://github.com/tiepz/barebones/
 [15]: https://www.benjystanton.co.uk
 [16]: https://www.slideshare.net/benjystanton/crafting-animation-on-the-web
 [17]: https://joshemerson.co.uk/blog/using-svg-graphics-today

@@ -39,7 +39,7 @@ The Swedish-language film [_Force Majeure_][14] depicts the tension between a hu
 [5]: https://thebeautyoftransport.wordpress.com/2016/10/26/mad-as-a-box-of-tudor-furness-railway-signal-box-carnforth-lancashire-uk/
 [6]: https://thebeautyoftransport.wordpress.com/2016/07/20/sparkling-diamonds-welbeck-street-multi-storey-car-park-london-uk/
 [7]: https://thebeautyoftransport.wordpress.com/2016/06/01/flying-bananas-intercity-125-a-transport-icon/
-[8]: https://paulrobertlloyd.com/2016/10/kunstmuseum_basel
+[8]: https://tiepz.com/2016/10/kunstmuseum_basel
 [9]: http://www.tate.org.uk/art/artists/718
 [10]: https://en.wikipedia.org/wiki/Adam_and_Joe
 [11]: https://en.wikipedia.org/wiki/Attack_the_Block

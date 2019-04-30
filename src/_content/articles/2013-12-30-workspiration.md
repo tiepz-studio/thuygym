@@ -53,7 +53,7 @@ I’m not particularly conscious of where I draw inspiration from, but I think I
 
 [1]: https://theguardian.com
 [2]: https://clearleft.com
-[3]: https://paulrobertlloyd.com
+[3]: https://tiepz.com
 [4]: https://bradshaws.guide
 [5]: http://g-technology.com/products/g-drive
 [6]: https://www.dpreview.com/reviews/canoneos450d

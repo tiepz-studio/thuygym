@@ -8,7 +8,7 @@ tags:
 - united_states
 - canada
 ---
-{% include 'embed' with 'https://a.tiles.mapbox.com/v4/paulrobertlloyd.map-5tk2u4wo/attribution,zoompan.html?access_token=pk.eyJ1IjoicGF1bHJvYmVydGxsb3lkIiwiYSI6Ik54cHBhS0UifQ.bNN4HG8gg9JMj_Dr_hkdLg#4/38/-98'
+{% include 'embed' with 'https://a.tiles.mapbox.com/v4/tiepz.map-5tk2u4wo/attribution,zoompan.html?access_token=pk.eyJ1IjoicGF1bHJvYmVydGxsb3lkIiwiYSI6Ik54cHBhS0UifQ.bNN4HG8gg9JMj_Dr_hkdLg#4/38/-98'
   poster: 'https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/static/-98,38,2,0,0/'
   caption: 'My itinerary plotted on a map'
   alignment: 'bleed'
@@ -40,7 +40,7 @@ I lack no courage to undertake a journey; I do however lack the courage of my co
 
 [1]: /2010/10/sxsw_greener_is_better
 [2]: /2011/07/the_architecture_of_brasilia
-[3]: http://lloydyweb.paulrobertlloyd.com/blog/2007/07/a_few_days_in_montreal
+[3]: http://lloydyweb.tiepz.com/blog/2007/07/a_few_days_in_montreal
 [4]: http://aneventapart.com/2011/dc/
 [5]: /2011/12/washington_dc
 [6]: /2011/12/ottawa

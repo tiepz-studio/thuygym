@@ -41,7 +41,7 @@ For feedback and suggestions, please [submit an issue on GitHub][3].
     }
   }
 </style>
-{% capture icon %}<img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/master/ICON_NAME-48x48.png" height="24" width="24" alt="">{% endcapture %}
+{% capture icon %}<img src="https://raw.githubusercontent.com/tiepz/socialmediaicons/master/ICON_NAME-48x48.png" height="24" width="24" alt="">{% endcapture %}
 <ul class="s-icons">
   <li>{{ icon | replace: 'ICON_NAME','500px' }} 500px</li>
   <li>{{ icon | replace: 'ICON_NAME','aim' }} AIM</li>
@@ -113,8 +113,8 @@ For feedback and suggestions, please [submit an issue on GitHub][3].
 
 [1]: http://timvandamme.com/
 [2]: http://www.komodomedia.com/blog/2008/12/social-media-mini-iconpack/
-[3]: https://github.com/paulrobertlloyd/socialmediaicons/issues
-[4]: https://github.com/paulrobertlloyd/socialmediaicons/archive/1.11.0.zip
+[3]: https://github.com/tiepz/socialmediaicons/issues
+[4]: https://github.com/tiepz/socialmediaicons/archive/1.11.0.zip
 [5]: http://creativecommons.org/licenses/by-sa/3.0/
 
 *[AIM]: AOL Instant Messnger

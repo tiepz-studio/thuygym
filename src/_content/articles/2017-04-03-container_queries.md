@@ -50,7 +50,7 @@ As a way of demonstration, let’s return to one of the components Ethan describ
 
 With Flexbox, we can build components such that their layout will adapt to the available space. Using Grid, we can name areas of a grid container, and then assign components to those areas:
 
-[View this code example on CodePen](https://codepen.io/paulrobertlloyd/pen/PpXygo/).
+[View this code example on CodePen](https://codepen.io/tiepz/pen/PpXygo/).
 {data-height="480" data-slug-hash="PpXygo" data-preview="true" class="codepen bleed"}
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
@@ -112,7 +112,7 @@ In my mind, container queries appear to be yesterday’s answer to today’s pro
 [10]: https://css-tricks.com/snippets/css/complete-guide-grid/
 [11]: http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css
 [12]: https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/
-[13]: https://paulrobertlloyd.com/2016/03/logical_flexbox
+[13]: https://tiepz.com/2016/03/logical_flexbox
 [14]: https://www.w3.org/TR/css-align-3/
 [15]: https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content
 [16]: https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns#max-content

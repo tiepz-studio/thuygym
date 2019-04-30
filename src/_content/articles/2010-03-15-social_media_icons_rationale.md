@@ -46,7 +46,7 @@ However, don’t let these principles dissuade you from nominating additions —
 [Download the Social Media Icon set][7]
 
 [1]: /2009/06/social_media_icons
-[2]: http://agreenfocus.paulrobertlloyd.com
+[2]: http://agreenfocus.tiepz.com
 [3]: http://www.komodomedia.com/blog/2009/06/social-network-icon-pack/
 [4]: http://ismikearringtonadick.com/
 [5]: http://friendfeed.com/

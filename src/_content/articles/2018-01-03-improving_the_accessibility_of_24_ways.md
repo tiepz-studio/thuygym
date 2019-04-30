@@ -233,7 +233,7 @@ Creating something new will always attract attention and admiration, but thereâ€
 Having a growing awareness of the issues, and expanding your knowledge of the tools available is an essential requirement of working on the web. However, donâ€™t keep that knowledge saved up for the future; if you can, go back and fix your older projects too.
 
 [1]: https://24ways.org/
-[2]: https://paulrobertlloyd.com/2013/12/redesigning_24_ways
+[2]: https://tiepz.com/2013/12/redesigning_24_ways
 [3]: https://bits.24ways.org
 [4]: https://abookapart.com/products/accessibility-for-everyone
 [5]: https://inclusive-components.design
