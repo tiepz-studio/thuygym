@@ -1,6 +1,6 @@
 ---
 title: xin chào đây là Tiếp House
-summary: an independent designer, writer and speaker based in Brighton, England. I help responsible organisations make purposeful digital products.
+summary: mê làm web và phát triển web để đăng ký quảng cáo Google, đồng thời yêu thích nghề nuôi thỏ mặc dù nuôi thỏ không mấy thành công, chỉ dám nuôi trong nhà vài con.
 permalink: /index.html
 type: homepage
 priority: 1
@@ -12,7 +12,7 @@ Giờ cứ nhong nhong làm nghề để kiếm sống qua ngày, coi đấy là
 | Thanh toán hoặc đóng góp  | Số tài khoản  | Ghi chú khác  |
 |:--|:--|:--|
 | **VCB**  | **0281000538644**  | Phạm Xuân Tiếp  |
-| Donate  | tiepz.bandcamp.com  | mua album nhạc  |
+| Donate  | [tiepz.bandcamp.com](https://tiepz.bandcamp.com)  | mua album nhạc  |
 | **Paypal**  | tiepzstudio@gmail.com  | Phạm Xuân Tiếp  |
 
 Có cần tôi làm gì thì nhắn [liên hệ](/contact/). hoặc là vào facebook cá nhân [Facebook **tiepz**](https://facebook.com/tiepz)
