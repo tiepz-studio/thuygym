@@ -5,6 +5,18 @@ permalink: /index.html
 type: homepage
 priority: 1
 ---
-I’ve been building interfaces to the web since 2004. At renowned user experience agency **Clearleft** I designed websites for a variety of organisations and instigated a comprehensive redesign of the professional web font service, **Fontdeck**. At **The Guardian**, I was part of the team that launched their responsive website and next-generation mobile applications.
+Cũng chả có gì để nói nhiều về tôi cả, cuộc sống riêng, gia đình, công việc... chẳng đâu vào đâu dù đã hơn 30 tuổi, Thất bại trong toàn bộ mọi...công đoạn của tạo hóa nên tôi không có nhiều lựa chọn, may mắn sao giờ có mạng nên cũng là chỗ tôi giải khuây được mà còn kiếm sống được.
 
-Today I work with businesses to help them make a meaningful impact within their industry. I bring a critical eye to the design process, and advocate renewal over wholesale reinvention. But honestly, I’m still trying to figure all this stuff out. Maybe you are too? If so, [let’s talk](/contact/).
+Giờ cứ nhong nhong làm nghề để kiếm sống qua ngày, coi đấy là thú vui.
+
+| Thanh toán hoặc đóng góp  | Số tài khoản  | Ghi chú khác  |
+|:--|:--|:--|
+| **VCB**  | **0281000538644**  | Phạm Xuân Tiếp  |
+| Donate  | tiepz.bandcamp.com  | mua album nhạc  |
+| **Paypal**  | tiepzstudio@gmail.com  | Phạm Xuân Tiếp  |
+
+Có cần tôi làm gì thì nhắn [liên hệ](/contact/). hoặc là vào facebook cá nhân [Facebook **tiepz**](https://facebook.com/tiepz)
+
+Bản quyền phát triển năm 2019, tài trợ dự án và bảo trợ độc lập bởi tiepz.com
+
+Phát triển và duy trì nội dung bởi Phạm Xuân Tiếp
