@@ -8,7 +8,7 @@ tags:
 slides:
 - image: /images/2013/07/aquent_gumnasium_uk_launch/1.jpg
   notes: |
-    1. kỹ thuật nuôi thỏ con mới sinh đến khi tách mẹ 31 ngày tuổi.
+    1. Kỹ thuật nuôi thỏ con mới sinh đến khi tách mẹ 31 ngày tuổi.
 
     - Sau khi thỏ mẹ sinh thì tùy vào số lượng con mà cho thỏ phối liền sau khi sinh 3 -4 ngày, 15 hay 30 ngày. Nếu thỏ đẻ dưới 4 con thì cho phối liền, trên 4 con thì 15 hay 30 ngày tùy giống thỏ và kỹ thuật chăm sóc của mỗi trại.
 
@@ -23,7 +23,26 @@ slides:
     - Ngày 31 tách thỏ con nuôi riêng, lúc này đã có thể phân biệt đực cái. Cách phân biệt đực cái các bạn xem ở phần video..
 - image: /images/2013/07/aquent_gumnasium_uk_launch/2.jpg
   notes: |
-    Prior to joining Clearleft I was lead designer at Ning, a start-up based in Palo Alto, California. I worked there during 2006-7, when a lot of the companies we know today were just getting started. Working in the Valley was an amazing – and at times eye-opening – experience.
+    2. kỹ thuật nuôi thỏ con sau tách mẹ
+
+    Thực ra quá trình nuôi thỏ con đến khi xuất bán cũng không có kỹ thuật cao xa gì, căn bản nhất là chăm thỏ, tập trung chăm thỏ và chăm thỏ. Chăm thỏ ở đây có nghĩa là phải quan sát thỏ hằng ngày.
+
+    Ra chuồng thỏ việc đầu tiên là xem phân thỏ. Phân thỏ tròn, khô, không bết sàn chuồng, không vón thành từng đám là được.
+
+    Thứ hai là xem lông thỏ. Xem xem có em nào xù lông xù lá, mất mảng lông nào không. Xem lông tai, lông chân có bị sủi trắng hay chảy máu.
+
+    Thứ ba là nghe tiếng thỏ. Ra chuồng thỏ mà nghe thỏ hắt xì, thỏ khò khè này nọ là phải coi lại.
+
+    Về phần thức ăn thỏ thì nhiều loại, nhiều dạng, tỳ vào anh em muốn nuôi theo kiểu nào mà chọn cho phù hợp với bản thân. Có người cho ăn 100% rau, có người kết hợp rau và cám công nghiệp, có người 100% cám công công nghiệp, có người tự phối thức ăn cho thỏ. Theo mình thấy, tốt nhất là tự phối thức ăn cho thỏ, vừa đủ dinh dưỡng vừa giảm giá thành sản phẩm. Nhưng vấn đề là phối thế nào, công thức phối ra sao. Sau đây mình xin giới thiệu công thức phối thức ăn của anh Chí Toàn, chủ trang trại thỏ Long Tuyền ở Cần Thơ.
+
+    - Bã đậu nành khoảng 35kg
+    - Thức ăn đậm đặc (protein>40%) 5kg
+    - Cám mịn 6kg
+    - Cám to hoặc cỏ 3,5kg
+    - Vitamin, khoáng chất...
+
+    Công thức này có thể thay đổi tùy vùng nguyên liệu. Nếu chỗ các bạn có bã bia, khô đậu lạc, đậu tương… có thể thay đổi.
+
 - image: /images/2013/07/aquent_gumnasium_uk_launch/3.jpg
   notes: |
     However, [my journey](https://lloydyweb.tiepz.com/blog/2006/01/my_journey_so_far) began almost ten years ago at Orange Vision, a tiny web design agency based in Lichfield, Staffordshire.
