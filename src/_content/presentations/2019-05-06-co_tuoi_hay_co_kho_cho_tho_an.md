@@ -17,13 +17,7 @@ slides:
     cho thỏ ăn cỏ từ máy cắt cỏ vì cách mà nó chặt làm cho nó lên men, điều này rất tệ cho những chú thỏ con, và chỉ cho cỏ trồng tốt tránh cắt cỏ nơi gần xe, đường qua lại, hoặc gần nhà máy xả ống khói vào cỏ của bạn.
 - image: /images/2019/05/hay3.jpg
   notes: |
-    ## Giới thiệu Cỏ
-
-    Nếu hiện tại chúng không ăn cỏ, hãy tập cho ăn cỏ từ từ để tránh đau bụng. Ban đầu, giới hạn thời gian chăn thả hoặc lượng cỏ bạn cho ăn.
-
-    Bạn có thể trồng từ từ các loại cỏ cho ăn cho đến khi thỏ bạn có quyền truy cập miễn phí nhiều như chúng muốn ăn và vườn của bạn bắt đầu da dạng loại cỏ tốt để chế biến cỏ khô.
-
-    cho thỏ ăn cỏ từ máy cắt cỏ vì cách mà nó chặt làm cho nó lên men, điều này rất tệ cho những chú thỏ con, và chỉ cho cỏ trồng tốt tránh cắt cỏ nơi gần xe, đường qua lại, hoặc gần nhà máy xả ống khói vào cỏ của bạn.
+    **Hãy làm theo hướng dẫn chung của Tiepz nhé**
 - image: /images/2019/05/hay2.jpg
   notes: |
     ## Cỏ tươi VÀ cỏ khô
