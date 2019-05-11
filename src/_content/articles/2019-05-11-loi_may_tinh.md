@@ -8,11 +8,38 @@ canonical:
   source: tiepz
   edition: 2019
 summary: máy tính dell gặp lỗi bất thường
-image: /images/2019/04/nhietdo.jpg
+image: /images/2019/05/error_pxe.jpg
 tags:
 - hạt nhiệt
 - nắng nóng
 - featured
 ---
 
-Nay hai anh em rảnh rổi chả có gì làm, ngồi viết ít chơi thôi.
+Nếu như bạn bị lỗi sau khi khởi động máy Dell hoặc lỗi tương tự trên dòng máy khác.
+
+> PXE-E61: Media test failure, check cable
+> 
+> PXE-M0F: Exiting PXE ROM.
+> No Boot Device Found. Press any key to reboot the machine
+
+lỗi PXE-E61 liên quan đến Preboot eXecution Environment (PXE) được hỗ trợ trên bo mạch chủ Dell.
+
+PXE là chế độ khởi động đặc biệt cho phép máy tính tìm kiếm và tải một hệ điều hành có khả năng khởi động qua mạng thay vì từ ổ đĩa cứng trong máy.
+
+Thường là do chúng ta khôi phục default settings trong BIOS của máy dell dẫn đến PXE được kích hoạt trở lại.
+
+có liên quan **nhất** đến PXE khi được enable lên là:
+
+> PXE-E61: Media test failure, check cable
+> PXE-M0F: Exiting Intel PXE ROM
+> PXE-M0F: Exiting Intel Boot Agent
+> No Boot Device Found. Press any key to reboot the machine
+
+## Hướng dẫn khắc phục.
+
+- Bấm F2 trước khi vào màn hình khởi động máy.
+- Vô hiệu háo PXE thành **disable** trong Generator Configuration.
+
+## Nếu bị lỗi tiếp theo
+
+Tương tự như bị lỗi **Legacy** hoặc **HDIE**
