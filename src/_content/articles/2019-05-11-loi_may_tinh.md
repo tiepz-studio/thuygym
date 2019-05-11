@@ -42,4 +42,4 @@ có liên quan **nhất** đến PXE khi được enable lên là:
 
 ## Nếu bị lỗi tiếp theo
 
-Tương tự như bị lỗi **Legacy** hoặc **HDIE**
+Tương tự như bị lỗi **Legacy** hoặc **UEFI**
