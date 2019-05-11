@@ -10,8 +10,8 @@ canonical:
 summary: máy tính dell gặp lỗi bất thường
 image: /images/2019/05/error_pxe.jpg
 tags:
-- hạt nhiệt
-- nắng nóng
+- máy tính
+- error
 - featured
 ---
 
