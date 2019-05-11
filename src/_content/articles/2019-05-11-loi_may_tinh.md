@@ -42,4 +42,6 @@ có liên quan **nhất** đến PXE khi được enable lên là:
 
 ## Nếu bị lỗi tiếp theo
 
-Tương tự như bị lỗi **Legacy** hoặc **UEFI**
+bị lỗi **Legacy** hoặc **UEFI**
+
+do không vào được win. chuyển đổi qua lại giữa 2 thuộc tính trên trong BIOS để kích hoạt lại hệ điều hành được cài theo phương thức nào.
