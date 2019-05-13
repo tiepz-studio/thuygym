@@ -29,11 +29,11 @@ tags:
 * * *
 
 1. Đếm cua trong lỗ
-2. Một nghề cho chín, hơn chín nghề hoặc nhất nghệ tinh, nhất thaanv vinh
-3.việc hôm nay chớ để ngày mai
+2. Một nghề cho chín, hơn chín nghề hoặc nhất nghệ tinh, nhất thân vinh
+3. việc hôm nay chớ để ngày mai
 4. Nói đến quỷ, thì hắn liền xuất hiện
-5.Vắng chủ nhà, gà vọc niêu tôm
-6.cẩn tắc vô ưu
-7.Minh thương dễ đỡ, ám tiễn khó phòng
-8.cái khó ló cái khôn
-9.Người tính, ko bằng trời tính
+5. Vắng chủ nhà, gà vọc niêu tôm
+6. cẩn tắc vô ưu
+7. Minh thương dễ đỡ, ám tiễn khó phòng
+8. cái khó ló cái khôn
+9. Người tính, ko bằng trời tính
