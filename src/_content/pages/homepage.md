@@ -1,12 +1,11 @@
 ---
 title: xin chào đây là thuygym
-summary: mê làm web và phát triển web để đăng ký quảng cáo Google, đồng thời yêu thích nghề nuôi thỏ mặc dù nuôi thỏ không mấy thành công, chỉ dám nuôi trong nhà vài con.
+summary: xin chào mọi người , rất vui khi mọi người đã vào trang của mình . Mình đến với gym một cách rất tình cờ với một người anh một người thầy dạy mình hết sức nhiệt tình và mình sẽ không bao giờ quên được. 
 permalink: /index.html
 type: homepage
 priority: 1
----
-Cũng chả có gì để nói nhiều về tôi cả, cuộc sống riêng, gia đình, công việc... chẳng đâu vào đâu dù đã hơn 30 tuổi, Thất bại trong toàn bộ mọi...công đoạn của tạo hóa nên tôi không có nhiều lựa chọn, may mắn sao giờ có mạng nên cũng là chỗ tôi giải khuây được mà còn kiếm sống được.
-
+--- 
+Năm nay mình 29 tuổi và bắt đầu từng bước học về máy tính, nói thế nghe có vẻ buồn cười nhỉ nhưng sự thật nó là như thế. mình nghĩ không gì là quá muộn để bắt đầu để học hỏi một cái gì đấy và giờ đây mình muốn tập chung vào nó.
 Giờ cứ nhong nhong làm nghề để kiếm sống qua ngày, coi đấy là thú vui.
 
 | Thanh toán hoặc đóng góp  | Số tài khoản  | Ghi chú khác  |
