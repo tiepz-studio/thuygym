@@ -4,7 +4,7 @@ summary: Nói chuyện phiếm, phét lác thì tôi là số một, nên muốn
 permalink: /contact/index.html
 priority: 0.5
 ---
-{% include 'aside' with 'Nếu muốn chỉ nhắn tin qua mail thì tôi có cái này <info@tiepz.com>. Tài khoản nhận thanh toán VCB 0281000538644.'
+{% include 'aside' with 'khi cần mọi người lên hệ qua gmail phamcongthuy120390@gmail.com hoặc qua sđt 0983402256'
 %}
 
 {% include 'form/contact' %}
